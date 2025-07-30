@@ -30,5 +30,5 @@ Each city is shown as a colored circle, with the size representing population an
 
 ## 💡 How to Run:
 1. Install required libraries (if not already):
-   `bash
+   ```bash
    pip install matplotlib numpy basemap
